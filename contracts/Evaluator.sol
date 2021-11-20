@@ -103,7 +103,7 @@ contract Evaluator
 		uint256 selfEndBalance = claimableERC20.balanceOf(address(this));
 		uint256 amountLeft = studentExerciceSolution[msg.sender].tokensInCustody(address(this));
 
-		require(solutionInitBalance - solutionEndBalance== amountToWithdraw, "ExerciceSolution has an incorrect amount of tokens");
+		require(solutionInitBalance - solutionEndBalance == amountToWithdraw, "ExerciceSolution has an incorrect amount of tokens");
 		require(selfEndBalance - selfInitBalance == amountToWithdraw, "Evaluator has an incorrect amount of tokens");
 		require(amountLeft == 0, "Tokens left held by ExerciceSolution");
 
