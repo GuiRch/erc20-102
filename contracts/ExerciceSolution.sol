@@ -36,6 +36,7 @@ contract ExerciceSolution {
         bool success = claimableERC20.transfer(msg.sender, amountToWithdraw);
         
         if (success) {
+            claimedTokenTracker[msg.sender] = claimedTokenTracker[msg.sender] - amountToWithdraw;
             return amountToWithdraw;
         } 
         else {
