@@ -4,12 +4,12 @@ pragma experimental ABIEncoderV2;
 import "./IERC20Claimable.sol";
 
 contract ExerciceSolution {
-
+    
     mapping(address => uint256) public claimedTokenTracker;
     IERC20Claimable claimableERC20;
 
     constructor() public {
-        claimableERC20 = IERC20Claimable(0xB27D1077A6c63500CCC0ACce75E05A5EDbB56230);
+        claimableERC20 = IERC20Claimable(0xb5d82FEE98d62cb7Bc76eabAd5879fa4b29fFE94);
 	}
 
 	fallback () external payable 
@@ -33,7 +33,7 @@ contract ExerciceSolution {
         require(claimedTokenTracker[msg.sender] > 0, "No tokens in custody");
         require(amountToWithdraw <= claimedTokenTracker[msg.sender], "Trying to remove more tokens than in custody");
         
-        success = claimableERC20.transfer(msg.sender, amountToWithdraw);
+        bool success = claimableERC20.transfer(msg.sender, amountToWithdraw);
         
         if (success) {
             return amountToWithdraw;
