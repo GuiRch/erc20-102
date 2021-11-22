@@ -318,7 +318,7 @@
         "id": 1106,
         "nodeType": "ImportDirective",
         "scope": 2451,
-        "sourceUnit": 2674,
+        "sourceUnit": 2853,
         "src": "120:33:6",
         "symbolAliases": [],
         "unitAlias": ""
@@ -329,7 +329,7 @@
         "id": 1107,
         "nodeType": "ImportDirective",
         "scope": 2451,
-        "sourceUnit": 2642,
+        "sourceUnit": 2821,
         "src": "155:30:6",
         "symbolAliases": [],
         "unitAlias": ""
@@ -667,7 +667,7 @@
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+              "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
               "typeString": "mapping(address => contract IExerciceSolution)"
             },
             "typeName": {
@@ -685,7 +685,7 @@
               "nodeType": "Mapping",
               "src": "504:37:6",
               "typeDescriptions": {
-                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                 "typeString": "mapping(address => contract IExerciceSolution)"
               },
               "valueType": {
@@ -693,10 +693,10 @@
                 "id": 1133,
                 "name": "IExerciceSolution",
                 "nodeType": "UserDefinedTypeName",
-                "referencedDeclaration": 2673,
+                "referencedDeclaration": 2852,
                 "src": "523:17:6",
                 "typeDescriptions": {
-                  "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                  "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                   "typeString": "contract IExerciceSolution"
                 }
               }
@@ -2426,7 +2426,7 @@
                               "referencedDeclaration": 1135,
                               "src": "1827:23:6",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -2467,7 +2467,7 @@
                             "nodeType": "IndexAccess",
                             "src": "1827:35:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -2475,7 +2475,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -2586,7 +2586,7 @@
                           "referencedDeclaration": 1135,
                           "src": "1918:23:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -2627,7 +2627,7 @@
                         "nodeType": "IndexAccess",
                         "src": "1918:35:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -2638,7 +2638,7 @@
                       "lValueRequested": false,
                       "memberName": "claimTokensOnBehalf",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 2646,
+                      "referencedDeclaration": 2825,
                       "src": "1918:55:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$__$returns$__$",
@@ -2715,7 +2715,7 @@
                               "referencedDeclaration": 1135,
                               "src": "2090:23:6",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -2756,7 +2756,7 @@
                             "nodeType": "IndexAccess",
                             "src": "2090:35:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -2764,7 +2764,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -3053,7 +3053,7 @@
                           "referencedDeclaration": 1135,
                           "src": "2335:23:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -3094,7 +3094,7 @@
                         "nodeType": "IndexAccess",
                         "src": "2335:35:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -3105,7 +3105,7 @@
                       "lValueRequested": false,
                       "memberName": "claimTokensOnBehalf",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 2646,
+                      "referencedDeclaration": 2825,
                       "src": "2335:55:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$__$returns$__$",
@@ -3229,7 +3229,7 @@
                                 "referencedDeclaration": 1135,
                                 "src": "2405:23:6",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                                  "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                                   "typeString": "mapping(address => contract IExerciceSolution)"
                                 }
                               },
@@ -3270,7 +3270,7 @@
                               "nodeType": "IndexAccess",
                               "src": "2405:35:6",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                 "typeString": "contract IExerciceSolution"
                               }
                             },
@@ -3281,7 +3281,7 @@
                             "lValueRequested": false,
                             "memberName": "tokensInCustody",
                             "nodeType": "MemberAccess",
-                            "referencedDeclaration": 2653,
+                            "referencedDeclaration": 2832,
                             "src": "2405:51:6",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_external_nonpayable$_t_address_$returns$_t_uint256_$",
@@ -4051,7 +4051,7 @@
                               "referencedDeclaration": 1135,
                               "src": "3042:23:6",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -4092,7 +4092,7 @@
                             "nodeType": "IndexAccess",
                             "src": "3042:35:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -4100,7 +4100,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -4462,7 +4462,7 @@
                           "referencedDeclaration": 1135,
                           "src": "3181:23:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -4503,7 +4503,7 @@
                         "nodeType": "IndexAccess",
                         "src": "3181:35:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -4514,7 +4514,7 @@
                       "lValueRequested": false,
                       "memberName": "tokensInCustody",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 2653,
+                      "referencedDeclaration": 2832,
                       "src": "3181:51:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_address_$returns$_t_uint256_$",
@@ -4575,7 +4575,7 @@
                           "referencedDeclaration": 1135,
                           "src": "3301:23:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -4616,7 +4616,7 @@
                         "nodeType": "IndexAccess",
                         "src": "3301:35:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -4627,7 +4627,7 @@
                       "lValueRequested": false,
                       "memberName": "withdrawTokens",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 2660,
+                      "referencedDeclaration": 2839,
                       "src": "3301:50:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$returns$_t_uint256_$",
@@ -4704,7 +4704,7 @@
                               "referencedDeclaration": 1135,
                               "src": "3486:23:6",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -4745,7 +4745,7 @@
                             "nodeType": "IndexAccess",
                             "src": "3486:35:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -4753,7 +4753,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -5115,7 +5115,7 @@
                           "referencedDeclaration": 1135,
                           "src": "3618:23:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -5156,7 +5156,7 @@
                         "nodeType": "IndexAccess",
                         "src": "3618:35:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -5167,7 +5167,7 @@
                       "lValueRequested": false,
                       "memberName": "tokensInCustody",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 2653,
+                      "referencedDeclaration": 2832,
                       "src": "3618:51:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_address_$returns$_t_uint256_$",
@@ -6200,7 +6200,7 @@
                                     "referencedDeclaration": 1135,
                                     "src": "4401:23:6",
                                     "typeDescriptions": {
-                                      "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                                      "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                                       "typeString": "mapping(address => contract IExerciceSolution)"
                                     }
                                   },
@@ -6241,7 +6241,7 @@
                                   "nodeType": "IndexAccess",
                                   "src": "4401:35:6",
                                   "typeDescriptions": {
-                                    "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                    "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                     "typeString": "contract IExerciceSolution"
                                   }
                                 }
@@ -6249,7 +6249,7 @@
                               "expression": {
                                 "argumentTypes": [
                                   {
-                                    "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                    "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                     "typeString": "contract IExerciceSolution"
                                   }
                                 ],
@@ -7036,7 +7036,7 @@
                                     "referencedDeclaration": 1135,
                                     "src": "4906:23:6",
                                     "typeDescriptions": {
-                                      "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                                      "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                                       "typeString": "mapping(address => contract IExerciceSolution)"
                                     }
                                   },
@@ -7077,7 +7077,7 @@
                                   "nodeType": "IndexAccess",
                                   "src": "4906:35:6",
                                   "typeDescriptions": {
-                                    "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                    "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                     "typeString": "contract IExerciceSolution"
                                   }
                                 }
@@ -7085,7 +7085,7 @@
                               "expression": {
                                 "argumentTypes": [
                                   {
-                                    "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                    "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                     "typeString": "contract IExerciceSolution"
                                   }
                                 ],
@@ -7917,7 +7917,7 @@
                               "referencedDeclaration": 1135,
                               "src": "5517:23:6",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -7958,7 +7958,7 @@
                             "nodeType": "IndexAccess",
                             "src": "5517:35:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -7966,7 +7966,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -8328,7 +8328,7 @@
                           "referencedDeclaration": 1135,
                           "src": "5655:23:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -8369,7 +8369,7 @@
                         "nodeType": "IndexAccess",
                         "src": "5655:35:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -8380,7 +8380,7 @@
                       "lValueRequested": false,
                       "memberName": "tokensInCustody",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 2653,
+                      "referencedDeclaration": 2832,
                       "src": "5655:51:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_address_$returns$_t_uint256_$",
@@ -8535,7 +8535,7 @@
                               "referencedDeclaration": 1135,
                               "src": "5913:23:6",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -8576,7 +8576,7 @@
                             "nodeType": "IndexAccess",
                             "src": "5913:35:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -8584,7 +8584,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -8732,7 +8732,7 @@
                           "referencedDeclaration": 1135,
                           "src": "6015:23:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -8773,7 +8773,7 @@
                         "nodeType": "IndexAccess",
                         "src": "6015:35:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -8784,7 +8784,7 @@
                       "lValueRequested": false,
                       "memberName": "depositTokens",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 2667,
+                      "referencedDeclaration": 2846,
                       "src": "6015:49:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$returns$_t_uint256_$",
@@ -8861,7 +8861,7 @@
                               "referencedDeclaration": 1135,
                               "src": "6183:23:6",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -8902,7 +8902,7 @@
                             "nodeType": "IndexAccess",
                             "src": "6183:35:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -8910,7 +8910,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -9055,7 +9055,7 @@
                               "referencedDeclaration": 1135,
                               "src": "6283:23:6",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -9096,7 +9096,7 @@
                             "nodeType": "IndexAccess",
                             "src": "6283:35:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -9104,7 +9104,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -9315,7 +9315,7 @@
                           "referencedDeclaration": 1135,
                           "src": "6346:23:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -9356,7 +9356,7 @@
                         "nodeType": "IndexAccess",
                         "src": "6346:35:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -9367,7 +9367,7 @@
                       "lValueRequested": false,
                       "memberName": "tokensInCustody",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 2653,
+                      "referencedDeclaration": 2832,
                       "src": "6346:51:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_address_$returns$_t_uint256_$",
@@ -10417,7 +10417,7 @@
                           "referencedDeclaration": 1135,
                           "src": "7194:23:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -10458,7 +10458,7 @@
                         "nodeType": "IndexAccess",
                         "src": "7194:35:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -10469,7 +10469,7 @@
                       "lValueRequested": false,
                       "memberName": "getERC20DepositAddress",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 2672,
+                      "referencedDeclaration": 2851,
                       "src": "7194:58:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$__$returns$_t_address_$",
@@ -10510,7 +10510,7 @@
                       "stateVariable": false,
                       "storageLocation": "default",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                        "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                         "typeString": "contract IERC20Mintable"
                       },
                       "typeName": {
@@ -10518,10 +10518,10 @@
                         "id": 1819,
                         "name": "IERC20Mintable",
                         "nodeType": "UserDefinedTypeName",
-                        "referencedDeclaration": 2641,
+                        "referencedDeclaration": 2820,
                         "src": "7259:14:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                          "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                           "typeString": "contract IERC20Mintable"
                         }
                       },
@@ -10558,10 +10558,10 @@
                       "name": "IERC20Mintable",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 2641,
+                      "referencedDeclaration": 2820,
                       "src": "7298:14:6",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_type$_t_contract$_IERC20Mintable_$2641_$",
+                        "typeIdentifier": "t_type$_t_contract$_IERC20Mintable_$2820_$",
                         "typeString": "type(contract IERC20Mintable)"
                       }
                     },
@@ -10576,7 +10576,7 @@
                     "src": "7298:37:6",
                     "tryCall": false,
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                      "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                       "typeString": "contract IERC20Mintable"
                     }
                   },
@@ -10604,7 +10604,7 @@
                                   "referencedDeclaration": 1135,
                                   "src": "7522:23:6",
                                   "typeDescriptions": {
-                                    "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                                    "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                                     "typeString": "mapping(address => contract IExerciceSolution)"
                                   }
                                 },
@@ -10645,7 +10645,7 @@
                                 "nodeType": "IndexAccess",
                                 "src": "7522:35:6",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                  "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                   "typeString": "contract IExerciceSolution"
                                 }
                               }
@@ -10653,7 +10653,7 @@
                             "expression": {
                               "argumentTypes": [
                                 {
-                                  "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                  "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                   "typeString": "contract IExerciceSolution"
                                 }
                               ],
@@ -10711,7 +10711,7 @@
                             "referencedDeclaration": 1820,
                             "src": "7483:21:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                              "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                               "typeString": "contract IERC20Mintable"
                             }
                           },
@@ -10722,7 +10722,7 @@
                           "lValueRequested": false,
                           "memberName": "isMinter",
                           "nodeType": "MemberAccess",
-                          "referencedDeclaration": 2640,
+                          "referencedDeclaration": 2819,
                           "src": "7483:30:6",
                           "typeDescriptions": {
                             "typeIdentifier": "t_function_external_nonpayable$_t_address_$returns$_t_bool_$",
@@ -10903,7 +10903,7 @@
                               "referencedDeclaration": 1820,
                               "src": "7608:21:6",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                                "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                                 "typeString": "contract IERC20Mintable"
                               }
                             },
@@ -10914,7 +10914,7 @@
                             "lValueRequested": false,
                             "memberName": "isMinter",
                             "nodeType": "MemberAccess",
-                            "referencedDeclaration": 2640,
+                            "referencedDeclaration": 2819,
                             "src": "7608:30:6",
                             "typeDescriptions": {
                               "typeIdentifier": "t_function_external_nonpayable$_t_address_$returns$_t_bool_$",
@@ -11295,7 +11295,7 @@
                         "referencedDeclaration": 1820,
                         "src": "7784:21:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                          "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                           "typeString": "contract IERC20Mintable"
                         }
                       },
@@ -11306,7 +11306,7 @@
                       "lValueRequested": false,
                       "memberName": "mint",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 2633,
+                      "referencedDeclaration": 2812,
                       "src": "7784:26:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_address_$_t_uint256_$returns$__$",
@@ -12076,7 +12076,7 @@
                               "referencedDeclaration": 1135,
                               "src": "8588:23:6",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -12117,7 +12117,7 @@
                             "nodeType": "IndexAccess",
                             "src": "8588:35:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -12125,7 +12125,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -12421,7 +12421,7 @@
                           "referencedDeclaration": 1135,
                           "src": "8732:23:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -12462,7 +12462,7 @@
                         "nodeType": "IndexAccess",
                         "src": "8732:35:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -12473,7 +12473,7 @@
                       "lValueRequested": false,
                       "memberName": "getERC20DepositAddress",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 2672,
+                      "referencedDeclaration": 2851,
                       "src": "8732:58:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$__$returns$_t_address_$",
@@ -12514,7 +12514,7 @@
                       "stateVariable": false,
                       "storageLocation": "default",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                        "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                         "typeString": "contract IERC20Mintable"
                       },
                       "typeName": {
@@ -12522,10 +12522,10 @@
                         "id": 1958,
                         "name": "IERC20Mintable",
                         "nodeType": "UserDefinedTypeName",
-                        "referencedDeclaration": 2641,
+                        "referencedDeclaration": 2820,
                         "src": "8797:14:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                          "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                           "typeString": "contract IERC20Mintable"
                         }
                       },
@@ -12562,10 +12562,10 @@
                       "name": "IERC20Mintable",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 2641,
+                      "referencedDeclaration": 2820,
                       "src": "8836:14:6",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_type$_t_contract$_IERC20Mintable_$2641_$",
+                        "typeIdentifier": "t_type$_t_contract$_IERC20Mintable_$2820_$",
                         "typeString": "type(contract IERC20Mintable)"
                       }
                     },
@@ -12580,7 +12580,7 @@
                     "src": "8836:37:6",
                     "tryCall": false,
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                      "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                       "typeString": "contract IERC20Mintable"
                     }
                   },
@@ -12702,7 +12702,7 @@
                         "referencedDeclaration": 1959,
                         "src": "8904:21:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                          "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                           "typeString": "contract IERC20Mintable"
                         }
                       },
@@ -12786,7 +12786,7 @@
                         "referencedDeclaration": 1959,
                         "src": "8988:21:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                          "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                           "typeString": "contract IERC20Mintable"
                         }
                       },
@@ -12952,7 +12952,7 @@
                               "referencedDeclaration": 1135,
                               "src": "9215:23:6",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -12993,7 +12993,7 @@
                             "nodeType": "IndexAccess",
                             "src": "9215:35:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -13001,7 +13001,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -13149,7 +13149,7 @@
                           "referencedDeclaration": 1135,
                           "src": "9317:23:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -13190,7 +13190,7 @@
                         "nodeType": "IndexAccess",
                         "src": "9317:35:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -13201,7 +13201,7 @@
                       "lValueRequested": false,
                       "memberName": "depositTokens",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 2667,
+                      "referencedDeclaration": 2846,
                       "src": "9317:49:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$returns$_t_uint256_$",
@@ -13278,7 +13278,7 @@
                               "referencedDeclaration": 1135,
                               "src": "9485:23:6",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -13319,7 +13319,7 @@
                             "nodeType": "IndexAccess",
                             "src": "9485:35:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -13327,7 +13327,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -13472,7 +13472,7 @@
                               "referencedDeclaration": 1135,
                               "src": "9585:23:6",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -13513,7 +13513,7 @@
                             "nodeType": "IndexAccess",
                             "src": "9585:35:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -13521,7 +13521,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -13730,7 +13730,7 @@
                         "referencedDeclaration": 1959,
                         "src": "9648:21:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                          "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                           "typeString": "contract IERC20Mintable"
                         }
                       },
@@ -13814,7 +13814,7 @@
                         "referencedDeclaration": 1959,
                         "src": "9731:21:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                          "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                           "typeString": "contract IERC20Mintable"
                         }
                       },
@@ -15019,7 +15019,7 @@
                               "referencedDeclaration": 1135,
                               "src": "10743:23:6",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -15060,7 +15060,7 @@
                             "nodeType": "IndexAccess",
                             "src": "10743:35:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -15068,7 +15068,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -15364,7 +15364,7 @@
                           "referencedDeclaration": 1135,
                           "src": "10887:23:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -15405,7 +15405,7 @@
                         "nodeType": "IndexAccess",
                         "src": "10887:35:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -15416,7 +15416,7 @@
                       "lValueRequested": false,
                       "memberName": "getERC20DepositAddress",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 2672,
+                      "referencedDeclaration": 2851,
                       "src": "10887:58:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$__$returns$_t_address_$",
@@ -15457,7 +15457,7 @@
                       "stateVariable": false,
                       "storageLocation": "default",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                        "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                         "typeString": "contract IERC20Mintable"
                       },
                       "typeName": {
@@ -15465,10 +15465,10 @@
                         "id": 2158,
                         "name": "IERC20Mintable",
                         "nodeType": "UserDefinedTypeName",
-                        "referencedDeclaration": 2641,
+                        "referencedDeclaration": 2820,
                         "src": "10952:14:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                          "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                           "typeString": "contract IERC20Mintable"
                         }
                       },
@@ -15505,10 +15505,10 @@
                       "name": "IERC20Mintable",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 2641,
+                      "referencedDeclaration": 2820,
                       "src": "10991:14:6",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_type$_t_contract$_IERC20Mintable_$2641_$",
+                        "typeIdentifier": "t_type$_t_contract$_IERC20Mintable_$2820_$",
                         "typeString": "type(contract IERC20Mintable)"
                       }
                     },
@@ -15523,7 +15523,7 @@
                     "src": "10991:37:6",
                     "tryCall": false,
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                      "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                       "typeString": "contract IERC20Mintable"
                     }
                   },
@@ -15645,7 +15645,7 @@
                         "referencedDeclaration": 2159,
                         "src": "11060:21:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                          "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                           "typeString": "contract IERC20Mintable"
                         }
                       },
@@ -15729,7 +15729,7 @@
                         "referencedDeclaration": 2159,
                         "src": "11144:21:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                          "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                           "typeString": "contract IERC20Mintable"
                         }
                       },
@@ -15801,7 +15801,7 @@
                           "referencedDeclaration": 1135,
                           "src": "11233:23:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -15842,7 +15842,7 @@
                         "nodeType": "IndexAccess",
                         "src": "11233:35:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -15853,7 +15853,7 @@
                       "lValueRequested": false,
                       "memberName": "withdrawTokens",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 2660,
+                      "referencedDeclaration": 2839,
                       "src": "11233:50:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$_t_uint256_$returns$_t_uint256_$",
@@ -15930,7 +15930,7 @@
                               "referencedDeclaration": 1135,
                               "src": "11418:23:6",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -15971,7 +15971,7 @@
                             "nodeType": "IndexAccess",
                             "src": "11418:35:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -15979,7 +15979,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -16339,7 +16339,7 @@
                         "referencedDeclaration": 2159,
                         "src": "11550:21:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                          "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                           "typeString": "contract IERC20Mintable"
                         }
                       },
@@ -16423,7 +16423,7 @@
                         "referencedDeclaration": 2159,
                         "src": "11633:21:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IERC20Mintable_$2641",
+                          "typeIdentifier": "t_contract$_IERC20Mintable_$2820",
                           "typeString": "contract IERC20Mintable"
                         }
                       },
@@ -17438,7 +17438,7 @@
                                 "referencedDeclaration": 2290,
                                 "src": "12514:15:6",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                  "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                   "typeString": "contract IExerciceSolution"
                                 }
                               }
@@ -17446,7 +17446,7 @@
                             "expression": {
                               "argumentTypes": [
                                 {
-                                  "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                  "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                   "typeString": "contract IExerciceSolution"
                                 }
                               ],
@@ -17563,7 +17563,7 @@
                         "referencedDeclaration": 1135,
                         "src": "12585:23:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2673_$",
+                          "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$2852_$",
                           "typeString": "mapping(address => contract IExerciceSolution)"
                         }
                       },
@@ -17604,7 +17604,7 @@
                       "nodeType": "IndexAccess",
                       "src": "12585:35:6",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                        "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                         "typeString": "contract IExerciceSolution"
                       }
                     },
@@ -17619,13 +17619,13 @@
                       "referencedDeclaration": 2290,
                       "src": "12623:15:6",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                        "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                         "typeString": "contract IExerciceSolution"
                       }
                     },
                     "src": "12585:53:6",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                      "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                       "typeString": "contract IExerciceSolution"
                     }
                   },
@@ -17669,7 +17669,7 @@
                             "referencedDeclaration": 2290,
                             "src": "12665:15:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -17677,7 +17677,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -18137,7 +18137,7 @@
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
-                    "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                    "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                     "typeString": "contract IExerciceSolution"
                   },
                   "typeName": {
@@ -18145,10 +18145,10 @@
                     "id": 2289,
                     "name": "IExerciceSolution",
                     "nodeType": "UserDefinedTypeName",
-                    "referencedDeclaration": 2673,
+                    "referencedDeclaration": 2852,
                     "src": "12366:17:6",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                      "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                       "typeString": "contract IExerciceSolution"
                     }
                   },
@@ -19643,7 +19643,7 @@
       },
       {
         "attributes": {
-          "SourceUnit": 2674,
+          "SourceUnit": 2853,
           "absolutePath": "project:/contracts/IExerciceSolution.sol",
           "file": "./IExerciceSolution.sol",
           "scope": 2451,
@@ -19658,7 +19658,7 @@
       },
       {
         "attributes": {
-          "SourceUnit": 2642,
+          "SourceUnit": 2821,
           "absolutePath": "project:/contracts/IERC20Mintable.sol",
           "file": "./IERC20Mintable.sol",
           "scope": 2451,
@@ -20029,7 +20029,7 @@
                     "attributes": {
                       "contractScope": null,
                       "name": "IExerciceSolution",
-                      "referencedDeclaration": 2673,
+                      "referencedDeclaration": 2852,
                       "type": "contract IExerciceSolution"
                     },
                     "id": 1133,
@@ -22018,7 +22018,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -22149,7 +22149,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "claimTokensOnBehalf",
-                              "referencedDeclaration": 2646,
+                              "referencedDeclaration": 2825,
                               "type": "function () external"
                             },
                             "children": [
@@ -22334,7 +22334,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -22659,7 +22659,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "claimTokensOnBehalf",
-                              "referencedDeclaration": 2646,
+                              "referencedDeclaration": 2825,
                               "type": "function () external"
                             },
                             "children": [
@@ -22824,7 +22824,7 @@
                                       "isPure": false,
                                       "lValueRequested": false,
                                       "member_name": "tokensInCustody",
-                                      "referencedDeclaration": 2653,
+                                      "referencedDeclaration": 2832,
                                       "type": "function (address) external returns (uint256)"
                                     },
                                     "children": [
@@ -23781,7 +23781,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -24104,7 +24104,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "tokensInCustody",
-                              "referencedDeclaration": 2653,
+                              "referencedDeclaration": 2832,
                               "type": "function (address) external returns (uint256)"
                             },
                             "children": [
@@ -24278,7 +24278,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "withdrawTokens",
-                              "referencedDeclaration": 2660,
+                              "referencedDeclaration": 2839,
                               "type": "function (uint256) external returns (uint256)"
                             },
                             "children": [
@@ -24477,7 +24477,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -24800,7 +24800,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "tokensInCustody",
-                              "referencedDeclaration": 2653,
+                              "referencedDeclaration": 2832,
                               "type": "function (address) external returns (uint256)"
                             },
                             "children": [
@@ -26116,7 +26116,7 @@
                                         "attributes": {
                                           "argumentTypes": [
                                             {
-                                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                               "typeString": "contract IExerciceSolution"
                                             }
                                           ],
@@ -27011,7 +27011,7 @@
                                         "attributes": {
                                           "argumentTypes": [
                                             {
-                                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                               "typeString": "contract IExerciceSolution"
                                             }
                                           ],
@@ -27904,7 +27904,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -28227,7 +28227,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "tokensInCustody",
-                              "referencedDeclaration": 2653,
+                              "referencedDeclaration": 2832,
                               "type": "function (address) external returns (uint256)"
                             },
                             "children": [
@@ -28565,7 +28565,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -28710,7 +28710,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "depositTokens",
-                              "referencedDeclaration": 2667,
+                              "referencedDeclaration": 2846,
                               "type": "function (uint256) external returns (uint256)"
                             },
                             "children": [
@@ -28909,7 +28909,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -29115,7 +29115,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -29278,7 +29278,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "tokensInCustody",
-                              "referencedDeclaration": 2653,
+                              "referencedDeclaration": 2832,
                               "type": "function (address) external returns (uint256)"
                             },
                             "children": [
@@ -30525,7 +30525,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "getERC20DepositAddress",
-                              "referencedDeclaration": 2672,
+                              "referencedDeclaration": 2851,
                               "type": "function () external returns (address)"
                             },
                             "children": [
@@ -30628,7 +30628,7 @@
                             "attributes": {
                               "contractScope": null,
                               "name": "IERC20Mintable",
-                              "referencedDeclaration": 2641,
+                              "referencedDeclaration": 2820,
                               "type": "contract IERC20Mintable"
                             },
                             "id": 1819,
@@ -30667,7 +30667,7 @@
                               "overloadedDeclarations": [
                                 null
                               ],
-                              "referencedDeclaration": 2641,
+                              "referencedDeclaration": 2820,
                               "type": "type(contract IERC20Mintable)",
                               "value": "IERC20Mintable"
                             },
@@ -30770,7 +30770,7 @@
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "isMinter",
-                                  "referencedDeclaration": 2640,
+                                  "referencedDeclaration": 2819,
                                   "type": "function (address) external returns (bool)"
                                 },
                                 "children": [
@@ -30813,7 +30813,7 @@
                                     "attributes": {
                                       "argumentTypes": [
                                         {
-                                          "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                          "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                           "typeString": "contract IExerciceSolution"
                                         }
                                       ],
@@ -31018,7 +31018,7 @@
                                       "isPure": false,
                                       "lValueRequested": false,
                                       "member_name": "isMinter",
-                                      "referencedDeclaration": 2640,
+                                      "referencedDeclaration": 2819,
                                       "type": "function (address) external returns (bool)"
                                     },
                                     "children": [
@@ -31233,7 +31233,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "mint",
-                              "referencedDeclaration": 2633,
+                              "referencedDeclaration": 2812,
                               "type": "function (address,uint256) external"
                             },
                             "children": [
@@ -32340,7 +32340,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -32664,7 +32664,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "getERC20DepositAddress",
-                              "referencedDeclaration": 2672,
+                              "referencedDeclaration": 2851,
                               "type": "function () external returns (address)"
                             },
                             "children": [
@@ -32767,7 +32767,7 @@
                             "attributes": {
                               "contractScope": null,
                               "name": "IERC20Mintable",
-                              "referencedDeclaration": 2641,
+                              "referencedDeclaration": 2820,
                               "type": "contract IERC20Mintable"
                             },
                             "id": 1958,
@@ -32806,7 +32806,7 @@
                               "overloadedDeclarations": [
                                 null
                               ],
-                              "referencedDeclaration": 2641,
+                              "referencedDeclaration": 2820,
                               "type": "type(contract IERC20Mintable)",
                               "value": "IERC20Mintable"
                             },
@@ -33289,7 +33289,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -33434,7 +33434,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "depositTokens",
-                              "referencedDeclaration": 2667,
+                              "referencedDeclaration": 2846,
                               "type": "function (uint256) external returns (uint256)"
                             },
                             "children": [
@@ -33633,7 +33633,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -33839,7 +33839,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -35492,7 +35492,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -35816,7 +35816,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "getERC20DepositAddress",
-                              "referencedDeclaration": 2672,
+                              "referencedDeclaration": 2851,
                               "type": "function () external returns (address)"
                             },
                             "children": [
@@ -35919,7 +35919,7 @@
                             "attributes": {
                               "contractScope": null,
                               "name": "IERC20Mintable",
-                              "referencedDeclaration": 2641,
+                              "referencedDeclaration": 2820,
                               "type": "contract IERC20Mintable"
                             },
                             "id": 2158,
@@ -35958,7 +35958,7 @@
                               "overloadedDeclarations": [
                                 null
                               ],
-                              "referencedDeclaration": 2641,
+                              "referencedDeclaration": 2820,
                               "type": "type(contract IERC20Mintable)",
                               "value": "IERC20Mintable"
                             },
@@ -36277,7 +36277,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "withdrawTokens",
-                              "referencedDeclaration": 2660,
+                              "referencedDeclaration": 2839,
                               "type": "function (uint256) external returns (uint256)"
                             },
                             "children": [
@@ -36476,7 +36476,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -37986,7 +37986,7 @@
                         "attributes": {
                           "contractScope": null,
                           "name": "IExerciceSolution",
-                          "referencedDeclaration": 2673,
+                          "referencedDeclaration": 2852,
                           "type": "contract IExerciceSolution"
                         },
                         "id": 2289,
@@ -38110,7 +38110,7 @@
                                         "attributes": {
                                           "argumentTypes": [
                                             {
-                                              "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                              "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                               "typeString": "contract IExerciceSolution"
                                             }
                                           ],
@@ -38328,7 +38328,7 @@
                                     "attributes": {
                                       "argumentTypes": [
                                         {
-                                          "typeIdentifier": "t_contract$_IExerciceSolution_$2673",
+                                          "typeIdentifier": "t_contract$_IExerciceSolution_$2852",
                                           "typeString": "contract IExerciceSolution"
                                         }
                                       ],
@@ -40301,7 +40301,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.3",
-  "updatedAt": "2021-11-21T16:28:32.153Z",
+  "updatedAt": "2021-11-22T21:58:27.539Z",
   "devdoc": {
     "methods": {}
   },
