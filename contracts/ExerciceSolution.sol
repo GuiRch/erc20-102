@@ -44,6 +44,7 @@ contract ExerciceSolution {
         
         if (success) {
             claimedTokenTracker[msg.sender] = claimedTokenTracker[msg.sender] - amountToWithdraw;
+            exSoTo.burn(msg.sender, amountToWithdraw);
             return amountToWithdraw;
         } 
         else {

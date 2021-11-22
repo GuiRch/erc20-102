@@ -71,5 +71,5 @@ Extra points if you find bugs / corrections this TD can benefit from, and submit
 - TDToken `0x941558531B6e610E98bEeA1871e89F9554549e20`
 - ClaimableToken `0xB27D1077A6c63500CCC0ACce75E05A5EDbB56230`
 - Evaluator `0x050D96b5E4d0D8E8eF652dA39D8C4de8EE2b07D7`
-- ExerciceSolutionToken `0x69BD86bA864188D1C07A763886648D29f7c3c660`
-- ExerciceSolution `0x892421b6f5E16d188ea13705df8D7d69c90d00e7`
+- ExerciceSolutionToken `0x5d14534cB590462Ba63917D5BD2EF376562aB5CC`
+- ExerciceSolution `0xa6Ff47DB435bF0F3b4C8F5B6C1ad72dd88C08195`

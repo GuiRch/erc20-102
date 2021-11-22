@@ -22,6 +22,11 @@ contract ExerciceSolutionToken is ERC20 {
         _mint(toAddress, amount);
     }
 
+    function burn(address account, uint256 amount)  public {
+        require(isMinter(msg.sender), "You are not a minter");
+        _burn(account, amount);
+    }
+
     function isMinter(address minterAddress) public returns (bool) {
         if (minter[minterAddress]) {
             return true;
