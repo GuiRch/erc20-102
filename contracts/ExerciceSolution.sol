@@ -56,7 +56,7 @@ contract ExerciceSolution {
 
         if (success) {
             claimedTokenTracker[msg.sender] = claimedTokenTracker[msg.sender] + amountToWithdraw;
-            // exSoTo.mint(msg.sender, amountToWithdraw);
+            exSoTo.mint(msg.sender, amountToWithdraw);
             return amountToWithdraw;
         }
         else {
